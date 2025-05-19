@@ -53,7 +53,7 @@ Hangry is a full-stack web application built using the MERN (MongoDB, Express.js
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/aayushai/Hangry.git
+    git clone https://github.com/MeAkash77/Hangry-Full-Stack.git
     ```
 
 2. Navigate to the project directory:
