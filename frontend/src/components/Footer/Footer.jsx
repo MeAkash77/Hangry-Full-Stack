@@ -18,8 +18,8 @@ const Footer = () => {
                         alt=""
                     />
                     <p>
-                        This website is just for my portfolio, it's not a real
-                        website.
+                        Welcome to Hangry, your ultimate solution for those I'm starving and I want something amazing now moments. Whether you're craving cheesy pizzas, spicy noodles, wholesome bowls, or indulgent desserts, we've got you covered.
+Hangry is a fast, friendly, and flavor-packed online food ordering platform built to satisfy your cravings without the wait.
                     </p>
                     <div className="footer-social-icons">
                         <img src={assets.facebook_icon} alt="" />
@@ -52,7 +52,7 @@ const Footer = () => {
             </div>
             <hr />
             <p className="footer-copyright">
-                Copyright 2024 © Hangry.com - All rights reserved.
+                Copyright 2024 © (Akash) Hangry.com - All rights reserved.
             </p>
         </div>
     );
