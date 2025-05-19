@@ -29,7 +29,7 @@ Hangry is a full-stack web application built using the MERN (MongoDB, Express.js
 
 ## Live-Link
 
-- You can view the live link [here.](https://hangry-frontend.onrender.com/)
+- You can view the live link [here.](https://hangry-full-stack.vercel.app/)
 
 ## Features
 
