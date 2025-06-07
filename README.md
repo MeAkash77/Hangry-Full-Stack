@@ -40,6 +40,16 @@ Hangry is a full-stack web application built using the MERN (MongoDB, Express.js
 
 - You can view the live link [here.](https://hangry-full-stack.vercel.app/)
 
+## Sign-up-page
+
+<img width="257" alt="Image" src="https://github.com/user-attachments/assets/3556af82-b643-4507-8002-f598d0eeee47" />
+
+## Sign-in-page
+
+
+## Dark mode
+
+
 ## Features
 
 - User authentication and authorization (JWT-based).
