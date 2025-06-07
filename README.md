@@ -19,7 +19,7 @@ Hangry is a full-stack web application built using the MERN (MongoDB, Express.js
 ## Home Page
 
 <p align="center" style="cursor: pointer">
-  <img src="docs/home-ui.png" alt="Home Page" style="border-radius: 10px" width="100%"/>
+  <img src="<img width="950" alt="Image" src="https://github.com/user-attachments/assets/4621b889-9049-4940-ae79-7dfc4da68c1a" />"/>
 </p>
 
 ## Menu form
