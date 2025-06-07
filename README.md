@@ -50,6 +50,7 @@ Hangry is a full-stack web application built using the MERN (MongoDB, Express.js
 
 ## Dark mode
 
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/794beb4f-4803-449f-945e-8a5b92da09dd" />
 
 ## Features
 
